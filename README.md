@@ -12,7 +12,7 @@ this is **first** list
 
 ### Table
 
-|| Item || Value || State ||
+| Item | Value | State |
 | ---- | ---- | ---- |
 | Computer | $1600 | OK    |
 | Phone    | $12   | OK    |
